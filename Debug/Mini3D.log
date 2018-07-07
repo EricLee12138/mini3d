@@ -1,0 +1,7 @@
+﻿  main.c
+\\mac\home\desktop\mini3d-master\main.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\mac\home\desktop\mini3d-master\main.c(136): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+\\mac\home\desktop\mini3d-master\main.c(135): warning C4101: “height”: 未引用的局部变量
+\\mac\home\desktop\mini3d-master\main.c(135): warning C4101: “width”: 未引用的局部变量
+  Mini3D.vcxproj -> \\Mac\Home\Desktop\mini3d-master\Debug\Mini3D.exe
